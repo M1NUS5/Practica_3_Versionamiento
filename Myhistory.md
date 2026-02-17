@@ -8,4 +8,8 @@ Ira haz de cuenta, que mi vida a sido totalmente monotona, he tenido las experie
 
 ![NO](./img/dos.jpeg)
 
-Comenzare en el momento que inicie mi carrera universitaria, ya que si me extiendo hasta el principio de todo esto sería muy largo y no querems eso, pero bueno cuando llegue, fue algo inesperado pero realmente listo paara inciar esta travesía
+Comenzare en el momento que inicie mi carrera universitaria, ya que si me extiendo hasta el principio de todo esto sería muy largo y no querems eso, pero bueno cuando llegue, fue algo inesperado pero realmente listo para inciar esta travesía.
+
+![ALOMEJOR](./img/cuatro.jpeg)
+
+Este sería el fin  XDXDXDXXDXDDDXD
