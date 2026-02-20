@@ -20,3 +20,8 @@ Finalmente, el cubano protagonista salio victorioso y sigue feliz estudiando en 
 A pesar de las dificultades, el cubano logró adaptarse y destacar en la universidad.
 
 <h1> FIN </h1>
+
+
+El cubano ahora domina Git y GitHub.
+
+<h1> FIN <h/1>
