@@ -17,4 +17,6 @@ Finalmente, el cubano protagonista salio victorioso y sigue feliz estudiando en 
 
 ![victoria](./img/victoria.jpeg)
 
+A pesar de las dificultades, el cubano logró adaptarse y destacar en la universidad.
+
 <h1> FIN <h1/>
